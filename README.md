@@ -12,7 +12,7 @@ The application includes a  landing page showing what i do, my education backgro
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio]( https://github.com/fay-ui/portfolio/blob/main/LICENSE)
+* You can view the web live on [Portfolio] https://fay-ui.github.io/main-portfolio/
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -20,7 +20,7 @@ The application works perfectly well, no bugs.
 email :: faith.njau@student.moringaschool.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/fay-ui/portfolio/blob/main/LICENSE)
+*LIcenced under the [MT-licence](https://github.com/fay-ui/main-portfolio/blob/master/LICENSE.md)
 
 
 Copyright (c) 2024 **faith njau**
